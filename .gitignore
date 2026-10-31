@@ -1,0 +1,15 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+.import/
+build/
+export.cfg
+export_credentials.cfg
+
+# Translations
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+mono_crash.*.json
